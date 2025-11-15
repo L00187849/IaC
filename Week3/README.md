@@ -1,52 +1,49 @@
-\# Infrastructure as Code (IaC)
+# Infrastructure as Code (IaC)
 
-\-\--
+---
 
-\## Description
+## Description
 
-This repository contains coursework and lab materials for the
-\*\*Infrastructure as Code (IaC)\*\* module on the \*\*PG Dip in Cloud
-Technologies\*\* at \*\*ATU Letterkenny\*\*. It is used to practise Git,
-GitHub, Markdown, and other tools needed for managing infrastructure in
-a structured and repeatable way.
+This repository contains coursework and lab materials for the **Infrastructure as Code (IaC)** module on the **PG Dip in Cloud Technologies** at **ATU Letterkenny**. It is used to practise Git, GitHub and Markdown, and to store weekly work for the module.
 
-\-\--
+---
 
-\## Contents
+## Contents
 
-\- \[Week2\](./Week2) Notes for Week 2 converted into Markdown (approx.
-50 lines, no screenshots), covering the initial desktop and server VM
-setup work.
+- **Week2**  
+  - Create a folder called `Week2` in the `IaC` repo.  
+  - Convert your Week 2 notes into Markdown (around 50 lines, no screenshots) and copy them into this folder.
 
-\- \[Week3\](./Week3)  - Git command cheat sheet in well-structured
-Markdown.  - Markdown elements cheat sheet in well-structured Markdown.
- - GitHub setup tasks:  - GitHub account created using student L Number
-(format \`Lxxxxxxx\`).  - Private repo \*\*IaC\*\* created and lecturer
-added as a collaborator.  - Initial \`README.md\` created and updated as
-the module progresses.  - GitHub Skills "First day on GitHub" exercises
-completed to learn Markdown and basic GitHub workflows (including
-meeting Mona the cat!).
+- **Week3**  
+  - Created a GitHub account using your L Number (format `L00187849`).  
+  - Completed the **“First day on GitHub”** exercises on GitHub Skills to learn basic GitHub and Markdown.  
+  - Create a private repo called **`IaC`**
+  - Create and maintain this `README.md` file in the root of the repo.  
+  - Create a folder called `Week3` in the `IaC` repo and add:
+    - A **Git command cheat sheet** in well-structured Markdown.  
+    - A **Markdown elements cheat sheet** in well-structured Markdown.
 
-\-\--
+---
 
-\## Dependencies
+## Dependencies
 
-\- Git installed locally. - GitHub account (using L Number as the
-username). - Text editor with Markdown support (e.g. Visual Studio Code,
-Notepad++). - Internet access to use GitHub and GitHub Skills.
+- GitHub account using L Number as the username (e.g. `L00187849`).
+- Git installed locally (CLI and/or GitHub Desktop).
+- Text editor with Markdown support (e.g. Visual Studio Code, Notepad++).
+- Internet access to use GitHub and GitHub Skills.
 
-\-\--
+---
 
-\## Author
+## Author
 
-\- \*\*LNumber:\*\* L00187849  - \*\*Name:\*\* Liam Saunders  -
-\*\*Course:\*\* PG Dip in Cloud Technologies  - \*\*Module:\*\*
-Infrastructure as Code (IaC)
+- **LNumber:** L00187849  
+- **Name:** Liam Saunders  
+- **Course:** PG Dip Cloud Technologies  
+- **Module:** Infrastructure as Code (IaC)
 
-\-\--
+---
 
-\## License
+## License
 
-This repository is for educational use as part of the PG Dip in Cloud
-Technologies at ATU Letterkenny. If reusing any content, please
-reference the author and module appropriately.
+This repository is for educational use as part of the PG Dip in Cloud Technologies at ATU Letterkenny.  
+If reused, please credit the author and module.
