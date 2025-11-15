@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains coursework and lab materials for the **Infrastructure as Code (IaC)** module on the **PG Dip in Cloud Technologies** at **ATU Letterkenny**. It is used to practise Git, GitHub and Markdown, and to store weekly work for the module.
+This repository contains coursework for **Week3**. It is used to practise Git, GitHub and Markdown.
 
 ---
 
