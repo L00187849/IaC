@@ -12,10 +12,7 @@ This repository contains coursework for **Week6**. It focuses on learning and pr
 
 - **Linux Scripts**  
   - A dedicated `Linux` folder has been created in the `IaC` repository to store all Week 6 automation work.  
-  - Personalised Bash scripts have been created based on the examples from the Automating Linux notes, including:  
-    - **`welcome.sh`** – Outputs a custom welcome message and session details.  
-    - **`system_report.sh`** – Generates basic system information.  
-    - **`backup_directory.sh`** – Creates a timestamped backup of a chosen directory.  
+  - Personalised Bash scripts have been created based on the examples from the Automating Linux notes.  
   - All scripts were adapted with personalised names, dates, comments and behaviour.  
 
 
