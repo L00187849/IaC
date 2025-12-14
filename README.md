@@ -15,8 +15,9 @@ This repository contains coursework and lab documentation for the **Infrastructu
 | [**/Week2**](https://github.com/L00187849/IaC/tree/main/Week2) | Notes for desktop and server VM builds (snapshots, clones).        |
 | [**/Week3**](https://github.com/L00187849/IaC/tree/main/Week3) | Git commands cheatsheet and Markdown cheatsheet.                   |
 | [**/Week4**](https://github.com/L00187849/IaC/tree/main/Week4) | Academic lab report: cross-communication between Windows host and Linux VM. |
-| [**/DOS**](https://github.com/L00187849/IaC/tree/main/DOS) | Academic lab report: DOS Batch Files                              |
-| [**/linux**](https://github.com/L00187849/IaC/tree/main/Linux) | Academic lab report: Linux Scripts
+| [**/DOS**](https://github.com/L00187849/IaC/tree/main/DOS) | Academic lab report: DOS Batch Files.                              |
+| [**/linux**](https://github.com/L00187849/IaC/tree/main/Linux) | Academic lab report: Linux Scripts.                            |
+| [**/PowerShell**](https://github.com/L00187849/IaC/tree/main/PowerShell) | Academic lab report: PowerShell Scripts.             |
 ---
 
 ## Dependencies
