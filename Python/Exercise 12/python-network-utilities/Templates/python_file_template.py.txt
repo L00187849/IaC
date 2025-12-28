@@ -1,0 +1,42 @@
+#!/usr/bin/env python3
+"""
+File: <filename>.py
+Project: <project name>
+
+Name: Liam Saunders
+Student Number: L00187849
+Date: <DD-MMM-YYYY>
+Version: 1.0
+Status: Development
+License: GPLv3
+
+Description:
+    <Brief description of what this script does>
+
+Usage:
+    <How this script is run, if applicable>
+
+Notes:
+    - Written following PEP 257 docstring conventions
+    - Designed for reuse across projects
+"""
+
+__author__ = "Liam Saunders"
+__contact__ = "liam.saunders@example.com"
+__copyright__ = "Copyright 2024, Liam Saunders"
+__date__ = "<DD-MMM-YYYY>"
+__deprecated__ = False
+__license__ = "GPLv3"
+__status__ = "Development"
+__version__ = "1.0.0"
+
+
+def main() -> None:
+    """
+    Main program entry point.
+    """
+    print("Template script running")
+
+
+if __name__ == "__main__":
+    main()
