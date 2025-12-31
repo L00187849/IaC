@@ -18,7 +18,8 @@ This repository contains coursework and lab documentation for the **Infrastructu
 | [**/DOS**](https://github.com/L00187849/IaC/tree/main/DOS) | Academic lab report: DOS Batch Files.                              |
 | [**/linux**](https://github.com/L00187849/IaC/tree/main/Linux) | Academic lab report: Linux Scripts.                            |
 | [**/PowerShell**](https://github.com/L00187849/IaC/tree/main/PowerShell) | Academic lab report: PowerShell Scripts.             |
-| [**/Python**](https://github.com/L00187849/IaC/tree/main/Python) |  Pytthon Scripting.             |
+| [**/Python**](https://github.com/L00187849/IaC/tree/main/Python) |  Python Scripting.             |
+| [**/Ansible**](https://github.com/L00187849/IaC/tree/main/Ansible) |  Ansible             |
 ---
 
 ## Dependencies
